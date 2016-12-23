@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">RedditTest</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Post Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="settings_sort_by_label">Sort by</string>
+    <string name="settings_sort_by_key">Sort by</string>
+    <string name="settings_sort_by_default">@string/settings_sort_by_hot_value</string>
+
+    <string name="settings_sort_by_hot_label">Hot</string>
+    <string name="settings_sort_by_hot_value">hot</string>
+
+    <string name="settings_sort_by_new_label">New</string>
+    <string name="settings_sort_by_new_value">new</string>
+
+    <string name="settings_sort_by_rising_label">Rising</string>
+    <string name="settings_sort_by_rising_value">rising</string>
+
+    <string name="settings_sort_by_top_hour_label">Top: Hour</string>
+    <string name="settings_sort_by_top_hour_value">hour</string>
+
+    <string name="settings_sort_by_top_day_label">Top: Day</string>
+    <string name="settings_sort_by_top_day_value">day</string>
+
+    <string name="settings_sort_by_top_week_label">Top: Week</string>
+    <string name="settings_sort_by_top_week_value">week</string>
+
+    <string name="settings_sort_by_top_month_label">Top: Month</string>
+    <string name="settings_sort_by_top_month_value">month</string>
+
+    <string name="settings_sort_by_top_year_label">Top: Year</string>
+    <string name="settings_sort_by_top_year_value">year</string>
+
+    <string name="settings_sort_by_top_alltime_label">Top: All time</string>
+    <string name="settings_sort_by_top_alltime_value">all</string>
+
+    <string name="settings_min_upvote_label">Minimum upvotes</string>
+    <string name="settings_min_upvote_key">min_upvote</string>
+    <string name="settings_min_upvote_default">0</string>
+
+</resources>
